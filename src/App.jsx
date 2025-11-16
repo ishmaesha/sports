@@ -13,7 +13,7 @@ import Mostloved from './components/Mostloved';
 import Plainsweatsuit from './components/plainsweatsuit';
 import Tracksuit from './components/tracksuit';
 import Tennis from './components/tennis';
-import Football from './components/football';
+import football from './components/football';
 import Sportsshoes from './components/sportsshoes';
 import Sportscaps from './components/sportscaps';
 import Waterbottle from './components/Waterbottle';
